@@ -1,3 +1,4 @@
+# Created by Cyclops!
 import random, time
 fruits = ['pear', 'mango', 'apple', 'banana', 'apricot', 'pineapple','cantaloupe', 'grapefruit','jackfruit','papaya']
 superHeroes = ['hawkeye', 'Ironman', 'warmachine', 'thor', 'antman', 'superman', 'deadpool', 'vision', 'batman', 'aquaman']
